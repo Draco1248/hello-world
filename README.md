@@ -1,2 +1,6 @@
 # hello-world
-First Repository on this site
+==========
+
+Hello Human
+Nicky here and I like finding new ways to do things faster.
+I enjoyed tacos and wish I had one now. 
